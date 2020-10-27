@@ -44,7 +44,7 @@ refs.stopBtn.addEventListener("click", () => {
   refs.startBtn.style.backgroundColor = "#8add7f"
 })
 
-//? _____________________Promises_______________________________________________
+//? _____________________Promises________________________________________________
 //* Task 1
 
 // const delay = (ms) => {
